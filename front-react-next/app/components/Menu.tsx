@@ -10,9 +10,11 @@ export default function Menu() {
         <li><Link href="/">Home</Link></li>
         <li><Link href="/listar_pessoas">Listar pessoas</Link></li>
         <li><Link href="/listar_livro">Listar Livros</Link></li>
+        <li><Link href="/listar_flor">Listar Flores</Link></li>
         <li><Link href="/form_login">Login</Link></li>
         <li><Link href="/form_incluir_pessoa">Nova Pessoa</Link></li>
         <li><Link href="/form_incluir_livro">Novo Livro</Link></li>
+        <li><Link href="/form_incluir_flor">Nova Flor</Link></li>
 
       </ul>
     </nav>
